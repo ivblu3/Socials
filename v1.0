@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>IVBlu3</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+<style>
+body {
+  background-image: url('59 - vOgllIR.jpg');
+  text-align:center;
+}
+h1 {
+  background-image: url('digital-circuit-design-dark-blue-background_49459-375.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: roboto;
+  font-size:350%;
+  text-shadow: 2px 2px 4px dodgerblue;
+  border: solid rgb(10, 10, 10);
+  background-color: rgb(10, 10, 10);
+  border-radius: 12px
+ 
+}
+
+h2 {
+  background-image: url('digital-circuit-design-dark-blue-background_49459-375.jpg');
+  color: white;
+  font-family: roboto;
+  font-size:200%;
+  text-shadow: 2px 2px 4px dodgerblue;
+  border: solid rgb(20, 20, 20);
+  background-color: rgb(20, 20, 20);
+  border-radius: 24px
+  
+}
+
+p1 {
+  color: white;
+  font-family: roboto;
+  font-size:160%;
+}
+
+p2 {
+  color: white;
+  font-family: roboto;
+  font-size:120%;
+}
+
+
+ul {
+  font-family: roboto;
+  font-size:100%;
+  list-style-type:none;
+  color: white;
+  text-shadow: 3px 3px black;
+  text-align: center;
+ 
+}
+li {
+  font-family: roboto;
+  font-size:100%;
+  list-style-type:none;
+  color: white;
+  text-shadow: 3px 3px black;
+  text-align: left;
+  }
+div { 
+  display: inline-block;
+  width:500px;
+  padding: 30px 70px;
+  vertical-align:top;
+}
+
+.button {
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.7);
+  background-repeat:no-repeat;
+  border: none;
+  padding: 24px 56px;
+  text-align: center;
+  font-size: 38px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  color: Magenta; 
+  border: 4px solid 	Magenta;
+  border-radius: 24px;
+  text-shadow: 4px 4px 6px black;
+}
+
+.button1:hover {
+  color: white;
+  background-color: 	Magenta;
+}
+
+.button2 {
+  
+  color: Red; 
+  border: 4px solid Red;
+  border-radius: 24px;
+  text-shadow: 4px 4px 6px black;
+}
+
+.button2:hover {
+
+  background-color: Red;
+  color: white;
+}
+
+.button3 {
+
+  color: DodgerBlue;
+  border: 4px solid DodgerBlue;
+  border-radius: 24px;
+  text-shadow: 4px 4px 6px black;
+}
+
+.button3:hover {
+  background-color: DodgerBlue;
+  color: white;
+}
+
+.button4 {
+
+  color: white;
+  padding: 6px 12px;
+  font-size: 20px;
+  border-radius: 24px;
+  background-color: dimgrey;
+  text-align: center;
+  
+}
+
+.button4:hover {
+  background-color: green;
+  color: white;
+}
+
+
+.button5 {
+
+  color: white;
+  padding: 4px 12px;
+  font-size: 20px;
+  border-radius: 24px;
+  background-color: dodgerblue;
+  text-align: center;
+}
+
+.button5:hover {
+  background-color: green;
+  color: white;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1> Social Media </h1> 
+
+<p1>
+<a href='https://twitch.tv/ivblu3/'>
+<button type="button" class="button button1"> <strong>Twitch</strong> </button>
+</a>
+
+<a href="https://www.youtube.com/channel/UCyG_589xcSZcgfU1yY7ocKg">
+<button type="button" class="button button2"> <strong>Youtube</strong> </button>
+</a>
+
+<a href="https://twitter.com/IvBlu3">
+<button type="button" class="button button3"> <strong>Twitter</strong> </button>
+</a>
+</p1>
+
+<h1> Personal Hardware </h1>
+
+<p2>
+
+<div>
+
+<h2>PC Specs</h2>
+
+<ul>
+        <li> <strong> CPU: </strong> <em> AMD Ryzen 5 1600 OC@3.8GHz </em> </li>
+        <li> <strong> CPU Cooler: </strong> <em> Corsair Hydro H100x </em></li>
+	<li> <strong> GPU: </strong> <em> EVGA GTX 1070 FTW </em></li>
+	<li> <strong> MotherBoard: </strong> <em> MSI B350 PC Mate </em></li>
+	<li> <strong> RAM: </strong> <em> Crucial Ballistix Sport LT 16gb kit @2800MHz </em></li>
+	<li> <strong> Storage: </strong> <em> Samsung 850 EVo 120GB SSD / WD Green 1TB HDD </em></li>
+	<li> <strong> PSU: </strong> <em> EVGA 600 W1 </em></li>
+	<li> <strong> Case: </strong> <em> NZXT S340 </em></li>
+	<a href="https://uk.pcpartpicker.com/list/RBJrK4">
+<button type="button" class="button button4" > <img src="PCPartPicker_Logo.png" width=200 height=40> </button>
+</a>
+
+      </ul>
+</div>
+
+<div>
+<h2>Peripherals</h2>
+<ul>
+        <li> <strong> Monitors: </strong> <br> <em> BenQ GW2470H 24inch (MAIN) <br> Hannspree HE225DPB 21.5inch (SIDE)</em> </li>
+        <li> <strong> Mouse: </strong> <em> Mionix Castor</em> </li>
+        <li><strong> Keyboard: </strong> <em> AUKEY Mechanical LED Backlit Keyboard</em> </li>
+        <li><strong> Headphones: </strong> <em> Audio-Technica ATH-M20X</em> </li>
+        <li><strong> Webcam: </strong> <em> Logitec c270 </em> </li>
+        <li><strong> Microphone: </strong> <em> Blue Snowbow iCE</em> </li>
+		<a href="http://amzn.eu/eDOvPT0">
+<button type="button" class="button button5" > <img src="Amazon logo.png" width=140 height=60> </button>
+</a>
+        </ul>
+</div>
+</p2>
+
+</body>
+</html>  
